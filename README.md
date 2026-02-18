@@ -140,6 +140,7 @@ See [docs/en/guides/architecture.md](./docs/en/guides/architecture.md) for detai
 | [Quickstart](./docs/en/getting-started/quickstart.md) | Build your first Agent |
 | [Concepts](./docs/en/getting-started/concepts.md) | Core concepts explained |
 | **Guides** | |
+| [Next.js Integration](./docs/en/guides/nextjs-integration.md) | Next.js project integration guide |
 | [Events](./docs/en/guides/events.md) | Three-channel event system |
 | [Tools](./docs/en/guides/tools.md) | Built-in tools & custom tools |
 | [Skills](./docs/en/guides/skills.md) | Skills system for reusable prompts |

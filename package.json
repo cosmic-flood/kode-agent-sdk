@@ -26,7 +26,8 @@
     "example:openrouter-stream": "ts-node examples/06-openrouter-stream.ts",
     "example:openrouter-agent": "ts-node examples/07-openrouter-agent.ts",
     "example:db-sqlite": "ts-node examples/db-sqlite.ts",
-    "example:db-postgres": "ts-node examples/db-postgres.ts"
+    "example:db-postgres": "ts-node examples/db-postgres.ts",
+    "example:nextjs-skills-qa": "ts-node examples/nextjs-skills-qa.ts"
   },
   "keywords": [
     "agent",

@@ -100,6 +100,7 @@ npm run example:room               # 多Agent协作
 | [快速上手](./docs/zh-CN/getting-started/quickstart.md) | 创建第一个 Agent |
 | [核心概念](./docs/zh-CN/getting-started/concepts.md) | 核心概念详解 |
 | **使用指南** | |
+| [Next.js 集成](./docs/zh-CN/guides/nextjs-integration.md) | Next.js 项目集成指南 |
 | [事件系统](./docs/zh-CN/guides/events.md) | 三通道事件系统 |
 | [工具系统](./docs/zh-CN/guides/tools.md) | 内置工具与自定义工具 |
 | [Skills 系统](./docs/zh-CN/guides/skills.md) | Skills 可复用提示词系统 |
